@@ -33,5 +33,9 @@
     "transform": [
       "envify"
     ]
+  },
+  "devDependencies": {
+    "envify": "~0.2.0",
+    "browserify": "~3.24.11"
   }
 }
